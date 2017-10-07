@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Easy name</string>
+    <string name="previous">ลดลง</string>
+    <string name="next">เพิ่ม</string>
 </resources>
